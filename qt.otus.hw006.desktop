@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=qt.otus.hw006
+Exec=/usr/bin/qt.otus.hw006
+Name=hw006
+Name[ru]=дз006
+
+[X-Application]
+Permissions=
+OrganizationName=qt.otus
+ApplicationName=hw006
+ExecDBus=/usr/bin/qt.otus.hw006
