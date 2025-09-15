@@ -32,6 +32,14 @@
     </message>
 </context>
 <context>
+    <name>AccountPage</name>
+    <message>
+        <location filename="../qml/pages/AccountPage.qml" line="35"/>
+        <source>Вернуться</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DefaultCoverPage</name>
     <message>
         <location filename="../qml/cover/DefaultCoverPage.qml" line="10"/>
@@ -104,6 +112,11 @@
         <source>Добавить</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../qml/pages/SignUpPage.qml" line="68"/>
+        <source>Вернуться</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>hw006</name>
@@ -111,16 +124,6 @@
         <location filename="../qml/hw006.qml" line="8"/>
         <source></source>
         <translation></translation>
-    </message>
-    <message>
-        <location filename="../qml/hw006.qml" line="9"/>
-        <source>no login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/hw006.qml" line="10"/>
-        <source>+7 xxx xxx xx xx</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

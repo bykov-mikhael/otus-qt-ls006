@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.15.2, 2025-09-09T10:42:23. -->
+<!-- Written by QtCreator 4.15.2, 2025-09-16T02:17:31. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
-  <value type="QByteArray">{d866215b-a4a5-4c90-9146-e4138aed9aa8}</value>
+  <value type="QByteArray">{e0fc091b-94e0-4b1f-998e-00dd4df9cfe3}</value>
  </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
@@ -404,17 +404,17 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="bool" key="MerRunConfiguration.DebugBypassOpenSslArmCapEnabled">true</value>
     <value type="bool" key="MerRunConfiguration.KeepUserData">true</value>
-    <value type="QString" key="MerRunConfiguration.QmlLiveBenchWorkspace">D:/doc/AuroraOS/hw006</value>
-    <value type="bool" key="MerRunConfiguration.QmlLiveEnabled">true</value>
+    <value type="QString" key="MerRunConfiguration.QmlLiveBenchWorkspace">D:/doc/GitHub/otus-qt-ls006</value>
+    <value type="bool" key="MerRunConfiguration.QmlLiveEnabled">false</value>
     <value type="int" key="MerRunConfiguration.QmlLiveIpcPort">-1</value>
     <value type="int" key="MerRunConfiguration.QmlLiveOptions">3</value>
     <value type="QString" key="MerRunConfiguration.QmlLiveTargetWorkspace"></value>
     <value type="bool" key="MerRunConfiguration.SandboxEnabled">false</value>
     <value type="int" key="PE.EnvironmentAspect.Base">1</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">qt.otus.hw006 (on %{Device:Name})</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QmakeProjectManager.MerRunConfiguration:D:/doc/AuroraOS/hw006/qt.otus.hw006.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/doc/AuroraOS/hw006/qt.otus.hw006.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">qt.otus.hw006 (on %{Device:Name})2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QmakeProjectManager.MerRunConfiguration:D:/doc/GitHub/otus-qt-ls006/qt.otus.hw006.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/doc/GitHub/otus-qt-ls006/qt.otus.hw006.pro</value>
     <value type="int" key="RemoteLinux.EnvironmentAspect.Version">1</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>

@@ -7,7 +7,7 @@ Page {
 
     PageHeader {
         objectName: "pageHeader"
-        title: currentPageName
+//        title: currentPageName
     }
 
     Column {
@@ -55,10 +55,20 @@ Page {
                      && tsAgree.checked
             text: qsTr("Добавить")
             onClicked: {
-                currentPhoneNumber = tfPhoneNumber.text
-                console.log(tfPhoneNumber.text)
-                currentLogin = tfLogin.text
-                console.log(tfLogin.text)
+                pageStack.push(Qt.resolvedUrl("AccountPage.qml"), {
+                                   "_PhoneNumber": tfPhoneNumber.text,
+                                   "_Login": tfLogin.text
+                               })
+            }
+        }
+
+        Button {
+            anchors.horizontalCenter: parent.horizontalCenter
+            enabled: pageStack.depth > 1
+            text: qsTr("Вернуться")
+            onClicked: {
+                onClicked: pageStack.pop()
+
             }
         }
     }
